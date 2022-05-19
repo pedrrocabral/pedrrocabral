@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Pedro Cabral, Estudante de DataScience e Machine Learning! 👋 
 <div align="center">
   <a href="https://github.com/pedrrocabral">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrrocabral&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrrocabral&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pedrrocabral&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrrocabral&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
