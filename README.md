@@ -30,24 +30,39 @@
  
  <details>
   <summary><b> 💻&nbsp;Minhas Habilidades</b></summary>
-  <br/>
-  <style="display: inline_block"><br>
+  <br>
+  <style="display: inline_block">
   <img align="center" alt="Pedro-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Pedro-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Pedro-sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="Pedro-vscod" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Pedro-vscod" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <br>
+   </details>
+  
+ <details>
+  <summary><b>📂 Meus Projetos</b></summary>
+   <br/>
+   <table align="center">
+    <tr><td>Pojeto</a></td><td>Descrição</a></td><td>Linguagem</a></td><td>Link</a></td></tr>
+    <tr><td>DataFake</a></td><td>Biblioteca gerador de dados para teste</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"></a></td><td>https://github.com/pedrrocabral/DataFake</a></td></tr/>
+   </table>
+   <br/> 
  </details>
+  
   
  <details>
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
-  <br/>
+  <br>
     <p align="center">
-        <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrrocabral&hide_border=true&theme=blueberry">
+        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=pedrrocabral&theme=onedark&hide_border=true">
     </p>
     <div align="center">
   <a href="https://github.com/pedrrocabral">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrrocabral&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrrocabral&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrrocabral&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrrocabral&layout=compact&langs_count=7&theme=onedark">
+    <div align="center"><br>
+  <a href="https://github.com/pedrrocabral">
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=pedrrocabral&theme=onedark">
 </div>
 </details>  
