@@ -1,9 +1,18 @@
 ## Olá! Eu sou o Pedro Cabral, Estudante de DataScience e Machine Learning!
+
+### “Os dados geram informações, e informações geram conhenecimento, e o conhecimento gera evolução. “
+
+É dessa maneira que eu vejo os dados. Eu sou Pedro, tenho 22 anos, graduando em Engenharia Civil e estou migrado para essa nova área, que em tão pouco tempo já vai se tornando a minha maior paixão!
+
 <div align="center">
   <a href="https://github.com/pedrrocabral">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrrocabral&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrrocabral&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
+  
+  
+  ## Minhas Habilidades 💻
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
