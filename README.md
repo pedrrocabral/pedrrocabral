@@ -19,7 +19,7 @@
   <img align="center" alt="Pedro-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg">
 </div>
   
-  ## Contato-me
+  ## Contate-me
  
 <div>
   <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
