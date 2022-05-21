@@ -1,8 +1,4 @@
-## Olá! Eu sou o Pedro Cabral, Estudante de DataScience e Machine Learning!
-
-### “Os dados geram informações, e informações geram conhenecimento, e o conhecimento gera evolução. “
-
-É dessa maneira que eu vejo os dados. Eu sou Pedro, tenho 22 anos, graduando em Engenharia Civil e estou migrado para essa nova área, que em tão pouco tempo já vai se tornando a minha maior paixão!
+<img src="svg/img.svg"></img>
 
 <div align="center">
   <a href="https://github.com/pedrrocabral">
