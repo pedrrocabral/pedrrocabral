@@ -1,10 +1,29 @@
-<img src="svg/img.svg"></img>
+<img src="svg/headline_ptbr.svg"></img>
+<div>
+<table align="right">
+ <tr><td><a href="README.md"><img src="https://github.com/brunotacca/brunotacca/blob/51a6bf131b297ce94819e4668d3ae310f8ae99d1/images/us-flag.png" height="15"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="https://github.com/brunotacca/brunotacca/blob/51a6bf131b297ce94819e4668d3ae310f8ae99d1/images/br-flag.png" height="15"> Português</a></td></tr>
+</table>
+
+## :space_invader: &nbsp;Sobre mim
+<div align="center">
+
+### “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução. “
+</div>
+
+&nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/) (Universidade Católica de Pernambuco) \
+&nbsp;&nbsp;&nbsp;🔍 Em Busca de uma Oportunidade.\
+&nbsp;&nbsp;&nbsp;💘 Apaixonado pela área de dados de IA.\
+&nbsp;&nbsp;&nbsp;📘 Estudando Ciência de Dados e Machine Learning.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2004 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:, Kali :service_dog: e Maia :service_dog:.
 
 <div align="center">
   <a href="https://github.com/pedrrocabral">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrrocabral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrrocabral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
   
   
   ## Minhas Habilidades
