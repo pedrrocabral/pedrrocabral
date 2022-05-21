@@ -66,3 +66,5 @@
   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=pedrrocabral&theme=onedark">
 </div>
 </details>  
+
+ ![Snake animation](https://github.com/pedrrocabral/pedrrocabral/blob/output/github-contribution-grid-snake.svg)
