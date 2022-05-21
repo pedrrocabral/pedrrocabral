@@ -67,3 +67,4 @@
 </div>
 </details>  
 
+ ![Snake animation](https://github.com/pedrrocabral/pedrrocabral/blob/output/github-contribution-grid-snake.svg)
