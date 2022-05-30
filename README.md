@@ -47,6 +47,7 @@
    <table align="center">
     <tr><td>Pojeto</a></td><td>Descrição</a></td><td>Linguagem</a></td><td>Link</a></td></tr>
     <tr><td>DataFake</a></td><td>Biblioteca gerador de dados para teste</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"></a></td><td>https://github.com/pedrrocabral/DataFake</a></td></tr/>
+   <tr><td>Analise de Dados</a></td><td>Analise de Dados do Kaggle</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td>https://github.com/pedrrocabral/Analise-de-dados</a></td></tr/>
    </table>
    <br/> 
  </details>
