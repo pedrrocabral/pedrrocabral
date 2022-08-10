@@ -6,6 +6,7 @@
 ## 👾&nbsp;Sobre mim:
 
 <div align="center">
+ 
 ### “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução.“
 </div>
 
