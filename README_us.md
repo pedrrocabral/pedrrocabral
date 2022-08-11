@@ -76,6 +76,7 @@ Python for Data Analysis</td><td>12 hours</td><td><a href="https://bit.ly/Certif
   <th>Pojeto</th><th>Descrição</th><th>Linguagem</th><th>Links</th>
   <tr><td>DataFake</td><td>Fake Data Generator Library For Testing</td><td><img height="25" src="svg/python-original-wordmark.svg"></td><td><a href="https://github.com/pedrrocabral/DataFake">Link</a></td></tr>
  <tr><td>Machine Learning</td><td>Machine Learning Project Repository</td><td><img height="25" src="svg/python-original-wordmark.svg">&nbsp;<img alt="Pedro-jupyter" src="svg/jupyter-original-wordmark.svg" height="25"></td><td><a href="https://github.com/pedrrocabral/Projetos-de-Machine-Learning">Link</a></td></tr>
+ <tr><td>Data Analysis</td><td>Repository Intended For Kaggle Data Analysis</td><td><img height="25" src="svg/python-original-wordmark.svg">&nbsp;<img alt="Pedro-jupyter" src="svg/jupyter-original-wordmark.svg" height="25"></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">Link</a></td></tr>
    </thead>
  </table>
  <br>
